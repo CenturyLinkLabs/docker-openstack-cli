@@ -1,4 +1,5 @@
 FROM centurylinklabs/wetty-cli
+MAINTAINER CenturyLinkLabs
 
 #Install CLIs
 RUN apt-get update && \
