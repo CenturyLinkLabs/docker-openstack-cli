@@ -1,4 +1,4 @@
-FROM centurylinklabs/wetty-cli:0.0.8
+FROM centurylink/wetty-cli:0.0.8
 MAINTAINER CenturyLinkLabs
 
 #Install CLIs
